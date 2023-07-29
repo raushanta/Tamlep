@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212973640839323694/91c7f648d0f94600b743a54bb1a2d8a9/artifacts
+end_time: 1690535802644
+entry_point_name: ''
+experiment_id: '212973640839323694'
+lifecycle_stage: active
+run_id: 91c7f648d0f94600b743a54bb1a2d8a9
+run_name: dashing-midge-207
+run_uuid: 91c7f648d0f94600b743a54bb1a2d8a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690535671806
+status: 3
+tags: []
+user_id: raushan

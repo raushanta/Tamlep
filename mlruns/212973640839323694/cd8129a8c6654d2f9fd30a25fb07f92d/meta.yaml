@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212973640839323694/cd8129a8c6654d2f9fd30a25fb07f92d/artifacts
+end_time: 1690535661030
+entry_point_name: ''
+experiment_id: '212973640839323694'
+lifecycle_stage: active
+run_id: cd8129a8c6654d2f9fd30a25fb07f92d
+run_name: languid-chimp-336
+run_uuid: cd8129a8c6654d2f9fd30a25fb07f92d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690535532387
+status: 3
+tags: []
+user_id: raushan

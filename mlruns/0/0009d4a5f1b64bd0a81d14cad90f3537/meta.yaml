@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0009d4a5f1b64bd0a81d14cad90f3537/artifacts
+end_time: 1690545152340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0009d4a5f1b64bd0a81d14cad90f3537
+run_name: masked-lark-720
+run_uuid: 0009d4a5f1b64bd0a81d14cad90f3537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690544940006
+status: 4
+tags: []
+user_id: raushan

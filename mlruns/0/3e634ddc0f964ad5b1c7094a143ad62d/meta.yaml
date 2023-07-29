@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3e634ddc0f964ad5b1c7094a143ad62d/artifacts
+end_time: 1690546010578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e634ddc0f964ad5b1c7094a143ad62d
+run_name: indecisive-steed-739
+run_uuid: 3e634ddc0f964ad5b1c7094a143ad62d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690545793267
+status: 4
+tags: []
+user_id: raushan

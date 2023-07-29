@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212973640839323694/cd05aa02c2734e08b9d8affb6b89b8d2/artifacts
+end_time: 1690543809634
+entry_point_name: ''
+experiment_id: '212973640839323694'
+lifecycle_stage: active
+run_id: cd05aa02c2734e08b9d8affb6b89b8d2
+run_name: auspicious-ox-81
+run_uuid: cd05aa02c2734e08b9d8affb6b89b8d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690543745673
+status: 3
+tags: []
+user_id: raushan

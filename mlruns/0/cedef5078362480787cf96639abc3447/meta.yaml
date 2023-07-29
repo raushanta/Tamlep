@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cedef5078362480787cf96639abc3447/artifacts
+end_time: 1690565539003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cedef5078362480787cf96639abc3447
+run_name: funny-bird-628
+run_uuid: cedef5078362480787cf96639abc3447
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690564870268
+status: 4
+tags: []
+user_id: raushan

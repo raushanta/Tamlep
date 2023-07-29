@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a337c0b244d84b2b8c2db3d275111d33/artifacts
+end_time: 1690614075929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a337c0b244d84b2b8c2db3d275111d33
+run_name: judicious-cub-637
+run_uuid: a337c0b244d84b2b8c2db3d275111d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690613854810
+status: 4
+tags: []
+user_id: raushan

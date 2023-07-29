@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/15212258642e449392858ae761511e1c/artifacts
+end_time: 1690615277121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15212258642e449392858ae761511e1c
+run_name: shivering-deer-149
+run_uuid: 15212258642e449392858ae761511e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690615063027
+status: 3
+tags: []
+user_id: raushan
